@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of a bloody and barbarous murther, found to be committed upon the person of woman, in Kent-street, near St. George's Church, Southwark with the circumstances that attended the discovery, and other things accompanying so amazing and cruel proceedings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84958</idno>
+            <idno type="STC">Wing F2292B</idno>
+            <idno type="STC">ESTC R42502</idno>
+            <idno type="EEBO-CITATION">36282150</idno>
+            <idno type="OCLC">ocm 36282150</idno>
+            <idno type="VID">150059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of a bloody and barbarous murther, found to be committed upon the person of woman, in Kent-street, near St. George's Church, Southwark with the circumstances that attended the discovery, and other things accompanying so amazing and cruel proceedings.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Sold by R. Janeway in Queens-Head-Alley in Pater- Noster-Row,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  London.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150059:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT Of a Bloody <hi>And Barbarous Murther,</hi> Found to be Committed upon the Perſon of a WOMAN, In <hi>Kent-ſtreet,</hi> near St. <hi>George's</hi> Church, <hi>South<g ref="char:EOLhyphen"/>wark;</hi> with the Circumſtances that attended the Diſcovery, and other things accompanying ſo Amazing and Cruel proceedings.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>8. Aprill .1690.</add>
+                  </date>
+               </dateline>
+            </opener>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed according to Order.</p>
+               </body>
+            </floatingText>
+            <p>IT cannot but reflect ſtrange and amazing Horror, upon the Minds of thoſe that <hi>ſhed Humane Blood;</hi> Yet neither the Terror of Guilt, nor the fearful puniſhments are capable of deterring Cruel and Revengeful Minds from ſo great a Wickedneſs, as frequent <hi>Examples</hi> have made evident, and Recorded in <hi>Sanguin</hi> Characters, Mankind in this, is more Barbarous than the <hi>Ravenous Beaſts,</hi> who prey not upon their proper Kind, but by a natural Inſtinct ſpare to ſhed the Blood of their <hi>Compeers;</hi> but amongſt others of a Crimſon-dye, we here undertake to give one of a freſh date, wherein no ſmall Barbarity will appear.</p>
+            <p>It ſo hapned, that the beginning of the <hi>laſt week,</hi> a Coffin being diſcovered by ſome of the Neighbours, to be carryed into one <hi>Stevens</hi> his Houſe, at the Sign of the <hi>Trumpet,</hi> at the hither end of <hi>Kent-Street;</hi> and not having heard that any perſon had been Sick, made them begin to ſuſpect more than ordi<g ref="char:EOLhyphen"/>nary: Eſpecially, conſidering a Houſe that had none of the <hi>Beſt Reputation,</hi> and for ſome time, a whiſpering of ſuſpition was ſpread abroad, and enquiry made to what end it was deſigned, but no Satisfactory Anſwer could be got<g ref="char:EOLhyphen"/>ten; but in the end, <hi>Suſpition</hi> growing greater, it was given out, that a ſtrange perſon Lodging there, dyed: Whereupon the Searchers came, as is uſu<g ref="char:EOLhyphen"/>al, to make their Inſpection of the Corps: But before their coming, it was Coffined up, and decently dreſſed as to its Burial or Interment, and by that means, whether they diſcovered not the Wounds, or were partial in concealing them, we do not undertake to Determine, but contrary to the true cauſe of the Death of this party, they gave it out, that ſhe dyed of a Feavour, or ſome ſuch Violent Diſtemper; but the people of the Houſe thought it not however convenient to make a publick Burial, rather conſidering it moſt to their Ad<g ref="char:EOLhyphen"/>vantage, to bury the Body privately, and made overturns of that kind to the Sexton, or thoſe concerned in Burials: Which giving a greater Suſpition, no<g ref="char:EOLhyphen"/>thing could prevail to bring it to paſs, before a further Search was made, and thereupon the Burial being ſuſpended, the Coffin with the Body in it, was left at the Church Door in the Dark, and the next day the Corroner or Magiſtrate
+<pb facs="tcp:150059:2"/> having notice of theſe paſſages, the Body was taken out, and upon further In<g ref="char:EOLhyphen"/>ſpection, a mortal Wound appeared on the right ſide the Arm, being likewiſe ſtobed, ſuppoſed to be given with a Sword, Bagonet, or broad Knife; and the Body was carryed int<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church Porch, and expoſed to the view of the peo<g ref="char:EOLhyphen"/>ple; who crouded f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om all parts, to ſee the Sad and Deplorable Spectacle, making various Conjectures and Cenſures, and much inquiry was made, who the party ſho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld be, and who were the Murtherers, but as to the Name and Qua<g ref="char:EOLhyphen"/>lity of the perſon thus Murthered, we are yet to learn.</p>
+            <p>Whilſt things were at this paſs, and peoples Judgments were various, the <hi>Corroners Jury</hi> was Summoned and Met, to make an Inquiry how the party came by her Death, and ſuch Witneſſes as could be got were Examined, be<g ref="char:EOLhyphen"/>ing moſtly the people of the Houſe from whence ſhe was brought Dead, whoſe Teſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>monies appeared very obſcure, in the apprehenſion of moſt People; as Alledging, that ſhe received thoſe Wounds that were found upon the Body of the Deceaſed, in ſome Fray or accidental Rencounter, at or near <hi>Tower-Hill,</hi> and that after ſhe was Wounded, ſhe came only as a Lodger to their Houſe, and that they Entertained her out of hopes ſhe might Recover; and that Dying there, they had undertaken to procure her Burial, and were no ways concerned, or further knowing in Relation to her, or her Death: As to this purpoſe, however upon View of the Wounds, they appeared not to have been Dreſſed, and by many it was imagined, after receiving them, ſhe was not capable of coming ſo far, but muſt of neceſſity have fainted by the way, for Anguiſh or loſs of Blood, and thereupon the Jury conſidering the Cir<g ref="char:EOLhyphen"/>cumſtances, could find no other but that ſhe dyed of thoſe Wounds, and con<g ref="char:EOLhyphen"/>ſequently was Murthered, and thoſe moſt ſuſpected, as the Maſter, <hi>&amp;c.</hi> Bound over to anſwer the Death of this Party; that a further and more ſatisfacto<g ref="char:EOLhyphen"/>ry Account may be had how it happened, and after ſeveral days being expo<g ref="char:EOLhyphen"/>ſed to View, Orders were given for the Interment of the Corps, which was accordingly performed, in the Church-yard of St. <hi>Georges.</hi> This is all the Account we can at preſent give of this Deplorable Murther, till a further Light be had of the Matter, and Crimes of this Nature ſeldom eſcaping un<g ref="char:EOLhyphen"/>puniſhed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p n="1">(1) <hi>A New Narrative of the Siege of</hi> London-derry, or the late memorable Tranſactions of that <hi>City</hi> faithfully repreſented, to rectifie the Miſtakes, and ſupply the Omiſſions of Mr. <hi>walker's </hi> Account. By <hi>John Mackenȝie,</hi> Chaplain to a Regiment there during the whole Siege. Printed for the Author, and are to be ſold by <hi>Richard Baldwin.</hi>
+            </p>
+            <p n="2">(2) There is now publiſh'd the <hi>Second Edition</hi> of that New Play, entituled, <hi>The Abdicated Prince,</hi> or the Adventures of Four Years, a <hi>Tragi-Comedy,</hi> as it was lately acted <hi>(with great Applauſe)</hi> at the Court at <hi>Alba Regalis,</hi> by ſeveral Perſons of <hi>great Quantity.</hi> Printed for <hi>J. Carterſon.</hi>
+            </p>
+            <p n="3">(3) A Narrative of the <hi>Diſſenters New-Plot,</hi> together with an Account of the Chief Conſpirators Names, and principal Conſults, Written by one who was <hi>deeply concern'd therein.</hi> Since the publication of this <hi>Narrative</hi> (which has made ſuch a <hi>great noiſe</hi> in the World by being miſunderſtood) there is Prin<g ref="char:EOLhyphen"/>ted an Account of the deſign of it. Written by the ſame Author. <hi>Both Licens'd according to Order,</hi> and ſold by <hi>R. Janeway.</hi>
+            </p>
+            <p n="4">(4) There is every <hi>Friday</hi> publiſh'd a very ingenious paper, entituled, <hi>The Weekly Pacquet of Advice from</hi> Ireland; to which is added the Iriſh Courant.</p>
+         </div>
+         <div type="colophon">
+            <p>Sold by <hi>R. Janeway</hi> in <hi>Queens-Head-Alley</hi> in Pater-Noſter-Row. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
